@@ -1,3 +1,6 @@
+# TODO: replace with browser-sync?
+# Pending https://github.com/BrowserSync/browser-sync/issues/473
+
 webserver = require 'gulp-webserver'
 
 module.exports = (gulp) ->
